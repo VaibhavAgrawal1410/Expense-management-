@@ -1,8 +1,3 @@
-# Expense-Management-System-MERN-STACK-Project
-Complete MERN STACK PROJECT | Mongodb ExpressJS ReactJS NodeJS
+# Expense-Management-System :-
 
-Please check branches because all code has been added in multiple branches if you want last or final code then please check final code branch.
-
-## please check branches!
-
-# Check out techinfoyt youtube channel for full stack projects tutorials
+A simple web-based application developed to manage and analyse your daily expenses.
